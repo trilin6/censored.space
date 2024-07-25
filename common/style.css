@@ -12,12 +12,20 @@
   --altstore-tint-color: #018084;
   --tint-color: var(--altstore-tint-color);
 
+  /*
   --color-bg: rgba(255, 255, 255, 1);
   --color-bg-secondary: rgba(235, 235, 235, 1);
   --color-separator: rgba(0, 0, 0, 0.15);
   --color-primary: rgba(0, 122, 254, 1);
   --color-transparent: rgba(255, 255, 255, 0.75);
+  */
 
+  --color-bg: rgb(26, 25, 27);
+  --color-bg-secondary: rgb(46, 45, 47);
+  --color-separatork: rgba(255, 255, 255, 0.15);
+  --color-primary: rgba(11, 132, 254, 255);
+  --color-transparent: rgba(26, 25, 27, 0.25);
+    
   --color-bg-dark: rgb(26, 25, 27);
   --color-bg-dark-secondary: rgb(46, 45, 47);
   --color-separator-dark: rgba(255, 255, 255, 0.15);
