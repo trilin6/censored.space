@@ -8,7 +8,7 @@ var URLS = [
   `${GHPATH}/index.js`,
   `${GHPATH}/manifest.webmanifest`,
   `${GHPATH}/favicon.ico`,
-  `${GHPATH}/img/icon.png`,
+  `${GHPATH}/common/assets/img/icon.png`,
   `${GHPATH}/common/assets/img/altstore-2.0.jpg`,
   `${GHPATH}/common/assets/img/generic_app.jpeg`,
   `${GHPATH}/common/assets/img/loading.gif`,
