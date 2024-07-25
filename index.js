@@ -1,15 +1,5 @@
-//
-//  index.js
-//  altsource-viewer (https://github.com/therealFoxster/altsource-viewer)
-//
-//  Copyright (c) 2023 Foxster.
-//  MIT License.
-//
-
 import { urlSearchParams, sourceURL } from "./common/modules/constants.js";
 import { isValidHTTPURL, open, formatVersionDate } from "./common/modules/utilities.js";
-// import sources from "./common/assets/sources.json" assert { type: "json" }; // Doesn't work in Safari
-// const { default: sources } = await import("./common/assets/sources.json", {assert: { type: "json" } }); // Broken on Safari 17.2
 import { sources } from "./common/modules/constants.js";
 
 (function main() {
@@ -23,7 +13,6 @@ import { sources } from "./common/modules/constants.js";
         if (!isValidHTTPURL(sourceURL))
             alert("Invalid HTTP URL.");
         else open(`./view/?source=${sourceURL}`);
-        // else insertSource(sourceURL, "afterbegin", true);
     };
 
     // If source provided
