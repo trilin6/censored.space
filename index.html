@@ -11,6 +11,14 @@
   <title>censored.space</title>
 </head>
 <body>
+  <script>
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker.register (
+          '/    censored.space/sw.js',
+          {scope: '/censored.space/'}
+        )
+      }
+  </script>
   <div id="top">
     <div id="nav-bar" class="hide-border">
       <a href="https://github.com/therealFoxster/altsource-viewer" class="hidden">
