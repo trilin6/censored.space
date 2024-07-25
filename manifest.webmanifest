@@ -6,7 +6,7 @@
   "start_url": "/censored.space/",
   "background_color": "#000000b3",
   "theme_color": "#000000b3",
-  "display": "fullscreen", 
+  "display": "standalone", 
   "icons": [
       {
         "src": "/censored.space/common/assets/img/icon.png",
