@@ -9,7 +9,7 @@
   "display": "standalone", 
   "icons": [
       {
-        "src": "/censored.space/img/icon.png",
+        "src": "/censored.space/common/assets/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
