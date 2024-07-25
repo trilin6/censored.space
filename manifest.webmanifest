@@ -1,11 +1,11 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "Censored.space Repo",
+  "short_name": "Repo Browser",
+  "description": "iOS Repo Browser",
   "scope": "/censored.space/",
   "start_url": "/censored.space/",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#0c6568",
+  "theme_color": "#0c6568",
   "display": "standalone", 
   "icons": [
       {
