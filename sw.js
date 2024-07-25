@@ -12,6 +12,16 @@ var URLS = [
   `${GHPATH}/common/assets/img/altstore-2.0.jpg`,
   `${GHPATH}/common/assets/img/generic_app.jpeg`,
   `${GHPATH}/common/assets/img/loading.gif`,
+  `${GHPATH}/common/components/AltStoreBanner.js`,
+  `${GHPATH}/common/components/AppHeader.js`,
+  `${GHPATH}/common/components/AppPermissionItem.js`,
+  `${GHPATH}/common/components/NavigationBar.js`,
+  `${GHPATH}/common/components/NewsItem.js`,
+  `${GHPATH}/common/components/VersionHistoryItem.js`,
+  `${GHPATH}/common/components/AppHeader.js`,
+  `${GHPATH}/common/modules/constants.js`,
+  `${GHPATH}/common/modules/main.js`,
+  `${GHPATH}/common/modules/utilities.js`,
 
 ]
 
