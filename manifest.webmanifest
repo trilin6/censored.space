@@ -4,8 +4,8 @@
   "description": "iOS Repo Browser",
   "scope": "/censored.space/",
   "start_url": "/censored.space/",
-  "background_color": "rgba(255, 255, 255, 0.7)",
-  "theme_color": "rgba(255, 255, 255, 0.7)",
+  "background_color": "#1a191b",
+  "theme_color": "#1a191b",
   "display": "standalone", 
   "icons": [
       {
