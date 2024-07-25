@@ -8,6 +8,7 @@ var URLS = [
   `${GHPATH}/index.js`,
   `${GHPATH}/manifest.webmanifest`,
   `${GHPATH}/favicon.ico`,
+  `${GHPATH}/common/style.css`,
   `${GHPATH}/common/assets/img/icon.png`,
   `${GHPATH}/common/assets/img/altstore-2.0.jpg`,
   `${GHPATH}/common/assets/img/generic_app.jpeg`,
@@ -22,7 +23,20 @@ var URLS = [
   `${GHPATH}/common/modules/constants.js`,
   `${GHPATH}/common/modules/main.js`,
   `${GHPATH}/common/modules/utilities.js`,
-
+  `${GHPATH}/view/all-apps/index.html`,
+  `${GHPATH}/view/all-apps/all-apps.css`,
+  `${GHPATH}/view/all-apps/all-apps.js`,
+  `${GHPATH}/view/app/version-history/index.html`,
+  `${GHPATH}/view/app/version-history/version-history.css`,
+  `${GHPATH}/view/app/version-history/version-history.js`,
+  `${GHPATH}/view/app/app.css`,
+  `${GHPATH}/view/app/app.js`,
+  `${GHPATH}/view/app/index.html`,
+  `${GHPATH}/view/news/index.html`,
+  `${GHPATH}/view/news/news.css`,
+  `${GHPATH}/view/news/news.js`,
+  `${GHPATH}/view/index.html`,
+  `${GHPATH}/view/view.js`,
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
