@@ -16,9 +16,12 @@ export const urlRegex = /(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;()]*[
 export const sources = [
     "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps.json",
     "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
-    "https://quarksources.github.io/dist/quantumsource.min.json",
-    "https://quarksources.github.io/dist/quantumsource%2B%2B.min.json",
-    "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
+    "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/repo.json",
+    "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json",
+    "https://repo.apptesters.org/"
+    //"https://quarksources.github.io/dist/quantumsource.min.json",
+    //"https://quarksources.github.io/dist/quantumsource%2B%2B.min.json",
+    //"https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
 ];
 
 export const entitlements = {
