@@ -4,9 +4,15 @@ var VERSION = 'version_002';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/css/styles.css`,
+  `${GHPATH}/index.css`,
+  `${GHPATH}/index.js`,
+  `${GHPATH}/manifest.webmanifest`,
+  `${GHPATH}/favicon.ico`,
   `${GHPATH}/img/icon.png`,
-  `${GHPATH}/js/app.js`
+  `${GHPATH}/common/assets/img/altstore-2.0.jpg`,
+  `${GHPATH}/common/assets/img/generic_app.jpeg`,
+  `${GHPATH}/common/assets/img/loading.gif`,
+
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
