@@ -56,7 +56,7 @@ main(json => {
     let count = 1;
     json.apps.forEach(app => {
         // Max: 5 featured apps if not specified
-        if (count > 5) return;
+        if (count > 6) return;
 
         // Ignore beta apps
         if (app.beta) return;
